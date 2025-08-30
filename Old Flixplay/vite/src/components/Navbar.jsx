@@ -31,7 +31,7 @@ const Navbar = () => {
               }}
               alt="Logo"
             />
-            <strong>FLIXPLAY</strong>
+            <strong>CKCineMAX</strong>
           </Link>
           <button
             data-bs-toggle="collapse"
